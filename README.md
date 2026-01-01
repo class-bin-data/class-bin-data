@@ -2,7 +2,7 @@
 
 ### An experienced Javascript developer
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=class-bin-data&include_all_commits=true&count_private-true&custom_title=class-bin-data'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=class-bin-data&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 - 🌱 I'm currently learning **Python and HTML**
 
