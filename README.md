@@ -2,7 +2,7 @@
 
 ### An experienced Javascript developer
 
-[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=class-bin-data)](https://github.com/IceEnd)
+![LTSXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=class-bin-data)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=class-bin-data)
 
@@ -26,7 +26,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=class-bin-data&show_icons=true&locale=en&layout=compact" alt="class-bin-data" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=class-bin-data&show_icons=true&locale=en" alt="class-bin-data" /></p>
+
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=class-bin-data)](https://github.com/IceEnd)
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=class-bin-data&" alt="class-bin-data" /></p>
 
