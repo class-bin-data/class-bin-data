@@ -2,9 +2,7 @@
 
 ### An experienced Javascript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=class-bin-data&label=Profile views&color=0e75b6&style=flat" alt="class-bin-data" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=class-bin-data" alt="class-bin-data" /></a> </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=class-bin-data&include_all_commits=true&count_private-true&custom_title=class-bin-data'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
 - 🌱 I'm currently learning **Python and HTML**
 
