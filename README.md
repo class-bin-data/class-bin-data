@@ -4,6 +4,7 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=class-bin-data)
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=class-bin-data)
 
 - 🌱 I'm currently learning **Python and HTML**
 
