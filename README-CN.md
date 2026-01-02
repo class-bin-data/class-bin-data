@@ -29,7 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=class-bin-data&show_icons=true&locale=en&layout=compact" alt="class-bin-data" /></p>
 
 
-[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=class-bin-data)](https://github.com/IceEnd)
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=class-bin-data)](https://github.com/class-bin-data)
 
 
 
