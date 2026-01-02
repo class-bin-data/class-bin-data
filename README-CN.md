@@ -1,24 +1,24 @@
-# Hi 👋, I'm LTSXx
+# (｡･∀･)ﾉﾞ嗨 👋, 我是 凌铜x
 
 [English](./README.md)|[中文简体](./README-CN.md)
 
-### An experienced Javascript developer
+### 一个经验丰富的技术员
 
 ![LTSXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=class-bin-data)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=class-bin-data)
 
-- 🌱 I'm currently learning **Python and HTML**
+- 🌱 我正在学习 **Python and HTML**
 
-- 📫 How to reach me **xjusee@aoeb101la.top**
+- 📫 如何联系我 **xjusee@aoeb101la.top**
 
-- 👨‍💻 All of my projects are available at **[https://space.aoeb101la.top](https://space.aoeb101la.top)**
+- 👨‍💻 我的所有项目在 **[https://space.aoeb101la.top](https://space.aoeb101la.top)**
 
-- 📝 I regularly write articles on **[https://b.336424.xyz](https://b.336424.xyz)**
+- 📝 我的博客 **[https://b.336424.xyz](https://b.336424.xyz)**
 
-- 📄 Know about my experiences **[https://www.aoeb101la.top](https://www.aoeb101la.top)**
+- 📄 了解我的经历 **[https://www.aoeb101la.top](https://www.aoeb101la.top)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">联系我:</h3>
 <p align="left">
 <a href="https://github.com/class-bin-data" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="class-bin-data" height="30" width="40" /></a>
 </p>
