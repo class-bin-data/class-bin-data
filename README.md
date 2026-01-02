@@ -1,5 +1,7 @@
 # Hi 👋, I'm LTSXx
 
+[English](./README.md)|[中文简体](./README-CN.md)
+
 ### An experienced Javascript developer
 
 ![LTSXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=class-bin-data)
