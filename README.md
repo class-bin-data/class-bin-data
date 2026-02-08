@@ -1,5 +1,6 @@
 # Hi 👋, I'm LTSXx
 
+![GitHub followers](https://img.shields.io/github/followers/class-bin-data?link=https%3A%2F%2Fgithub.com%2Fclass-bin-data%3Ftab%3Dfollowers)
 [English](./README.md)|[中文简体](./README-CN.md)
 
 ### An experienced Javascript developer
